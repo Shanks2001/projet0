@@ -89,6 +89,7 @@ int main() {
                 }
         }
     } while (scelta != 0);
+    printf("ciao");
 
     return 0;
 }
